@@ -26,11 +26,13 @@ the settings/dashboard. e.g. https://i.imgur.com/ZIUPnhD.png
 ## Usage
 In your adblocker's filter lists section add either the URL:
 
-https://bit.ly/AIO-adblock
+click to subscribe
+
+[https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt\(https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt&title=All-in-One%20Customized%20Adblock%20List)
 
 **OR**
 
-https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
+[https://bit.ly/AIO-adblock](https://subscribe.adblockplus.org/?location=https://cdn.rawgit.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt&title=All-in-One%20Customized%20Adblock%20List)
 
 Check the wiki for step-by-step instructions. (https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki)
 

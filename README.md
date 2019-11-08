@@ -1,4 +1,4 @@
-﻿# All-in-One-Customized-Adblock-List 2.7
+﻿# All-in-One-Customized-Adblock-List 2.8
 
 ![logo](https://i.imgur.com/etKp2Tx.png "Logo") ![sub](https://images2.imgbox.com/61/d6/YkzqktzV_o.png "Sub")
 
@@ -45,15 +45,14 @@ Check the wiki for step-by-step instructions: <https://github.com/hl2guide/All-i
 
 ## News
 
-(as of September 3rd, 2019)
+(as of November 8th, 2019)
 
 Please only create an issue if you have run into a problem for more than six hours.
 This list is updated every two hours so a fix is probably already incoming.
 
-Version 2.8 is now in development, expected for release somewhere around December 2019.
+Version 2.8 is now out.
 
-2.8 Alpha 1 is out but I only suggest to the brave early testers who already know how to get a raw link.
-Testing Alpha 1 I've already noticed a nice performance boost and smaller size :D
+I've already noticed a nice performance boost and smaller size :D
 
 I'm currently working on a related project that offers a detailed tutorial and a consolidated, ordered and deduplicated blocked
 hosts list for use in a DNS Sinkhole Server with an encrypted forwarder link.
@@ -64,26 +63,15 @@ act as a Pi-Hole device/service alternative without the need to buy and use a Pi
 
 _More development is needed on my end for this before I release it publicly. Any work will appear in my GitHub repos._
 
-## What's in Version 2.7
+## What's in Version 2.8
 
-Version 2.7 of the AIO list is more complete and potent than ever.
+Version 2.8 of the AIO list is more complete and potent than ever.
 
 * Added more adblocking lists (over 120 in total now)
 * Tested browsers: Firefox, Vivaldi, Opera and Chrome
 * Tested addons/extensions: uBlock Origin and Adblock Plus
 
-## Windows Recommendations
-
-Personally I:
-
-1. Use a custom Windows HOSTS file to handle the initial blocking. [updated every 2 days]
-
-    __Steven Black's List (includes social media blocking):__
-<https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts>
-
-2. Use my add my AIO list in uBlock Origin within all browsers
-
-3. Clear browser caches often and make sure all cookies are removed
+All the above combined down to a simplified list.
 
 ## Credits
 

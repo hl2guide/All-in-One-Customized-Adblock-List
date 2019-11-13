@@ -1,12 +1,24 @@
-﻿# All-in-One-Customized-Adblock-List 2.8
 
-![logo](https://i.imgur.com/etKp2Tx.png "Logo") ![sub](https://images2.imgbox.com/61/d6/YkzqktzV_o.png "Sub")
+# All-in-One-Customized-Adblock-List 2.8
 
-Website: <https://hl2guide.github.io/All-in-One-Customized-Adblock-List/>
-Wiki/FAQs: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
-FilterLists Entry [search for "All-in-One Customized Adblock List", easy subscribe button]: <https://filterlists.com>
+## Important News
 
-(This repository is actively maintained and updates every two hours)
+***(as of November 13th, 2019)
+Version 2.8 is now out.***
+
+*After much consideration I've decided that version 2.8 is the last version I'll create.*
+
+*Meaning no more commits and it is no longer actively maintained. I apologise for the sudden halt of activity.*
+
+*This is because I was disappointed by the outcomes from using the list and the performance impacts.
+Another factor was the PowerShell script generator I have created and used is now cumbersome, slow and inefficient.*
+
+I'm currently working on a related project that offers a detailed tutorial and a consolidated, ordered and deduplicated blocked hosts list for use in a DNS Sinkhole Server with an encrypted forwarder link.
+
+Using this method should allow users to not use adblockers at all in browsers (a nice performance boost).
+The DNS Sinkhole Server would also be network-wide and essentially act as a Pi-Hole device/service alternative **without the need to buy and use a Pi-Hole device on a Windows network**.
+
+_More development is needed on my end for this before I release it publicly. Any work will appear in my **GitHub repos**._
 
 ## Description
 
@@ -17,7 +29,7 @@ It's been tested in uBlock Origin for Chrome, Firefox and Edge; it should work j
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.
 
 It includes customized entries that block particularly annoying page elements.
-It is actively maintained (updates every 2 hours) and is saved in UTF-8 format. Have fun :D
+It is saved in UTF-8 format.
 
 **(VITAL:)**
 Be sure to disable any lists that appear in the list below that you already have active in
@@ -28,8 +40,6 @@ As a basic rule this list includes filter lists that are obtainable at time of g
 
 This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
 for approved websites.
-
-This repo routinely has old commits cleared out since it updates so often (every two hours).
 
 ## Usage
 
@@ -42,26 +52,6 @@ _OR_
 <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt>
 
 Check the wiki for step-by-step instructions: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
-
-## News
-
-(as of November 8th, 2019)
-
-Please only create an issue if you have run into a problem for more than six hours.
-This list is updated every two hours so a fix is probably already incoming.
-
-Version 2.8 is now out.
-
-I've already noticed a nice performance boost and smaller size :D
-
-I'm currently working on a related project that offers a detailed tutorial and a consolidated, ordered and deduplicated blocked
-hosts list for use in a DNS Sinkhole Server with an encrypted forwarder link.
-
-Using this method should allow users to not use adblockers at all in browsers (a nice performance boost).
-Or use them much more sparingly. The DNS Sinkhole Server would also be network-wide and essentially
-act as a Pi-Hole device/service alternative without the need to buy and use a Pi-Hole device on a Windows network.
-
-_More development is needed on my end for this before I release it publicly. Any work will appear in my GitHub repos._
 
 ## What's in Version 2.8
 

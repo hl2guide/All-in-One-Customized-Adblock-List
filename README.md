@@ -3,6 +3,9 @@
 
 ## Important News
 
+Since this code is archived I've created a list of URLs for easy import into uBlock or Adblock Plus:
+https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/urls.txt
+
 ***(as of November 13th, 2019)
 Version 2.8 is now out.***
 

@@ -3,10 +3,17 @@
 
 ## Important News
 
+***(as of Jan 4th, 2020)
+
+I've created a 2.9 Beta: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
+
+No plans on a schedule to update it as I'll doing it manually.
+
+***(as of November 13th, 2019)
+
 Since this code is archived I've created a list of URLs for easy import into uBlock or Adblock Plus:
 https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/urls.txt
 
-***(as of November 13th, 2019)
 Version 2.8 is now out.***
 
 *After much consideration I've decided that version 2.8 is the last version I'll create.*

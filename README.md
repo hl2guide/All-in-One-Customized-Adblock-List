@@ -7,7 +7,7 @@
 
 I've created a 2.9 Beta: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
 
-No plans on a schedule to update it as I'll doing it manually.
+No plans on a commit schedule to update it as I'll doing it manually.
 
 ***(as of November 13th, 2019)
 

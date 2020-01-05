@@ -3,7 +3,7 @@
 
 ## Important News
 
-***(as of Jan 4th, 2020)
+***(as of Jan 5th, 2020)
 
 I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
 
@@ -32,11 +32,11 @@ This list is very comprehensive and includes around 120 custom-picked adblocking
 As a basic rule this list includes filter lists that are obtainable at time of generation.
 
 This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
-for approved websites.
+for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs and the like.
 
 ## Usage
 
-In your adblocker's filter lists section add either the URL:
+In your adblocker's filter lists section add the URL:
 
 <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt>
 

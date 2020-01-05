@@ -1,7 +1,7 @@
 
 # All-in-One-Customized-Adblock-List 2.9 Beta
 
-## Important News
+## Important News 📰
 
 ***(as of Jan 5th, 2020)
 
@@ -13,7 +13,7 @@ _It generates the aio.txt file much, MUCH more quickly._
 
 No plans on a commit schedule to update it as I'll doing it manually.
 
-## Description
+## Description 📝
 
 _This is an all-in-one adblocking filter list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news,
 cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
@@ -35,7 +35,7 @@ As a basic rule this list includes filter lists that are obtainable at time of g
 This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
 for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs and the like.
 
-## Usage
+## Usage 📣
 
 In your adblocker's filter lists section add the URL:
 
@@ -43,7 +43,7 @@ In your adblocker's filter lists section add the URL:
 
 Check the wiki for step-by-step instructions: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
 
-## What's in Version 2.9
+## What's in Version 2.9 📌
 
 Version 2.9 of the AIO list is more complete and potent than ever.
 
@@ -53,7 +53,7 @@ Version 2.9 of the AIO list is more complete and potent than ever.
 
 All the above combined down to a simplified list.
 
-## Credits
+## Credits ☺️
 
 Full credit for the actual blocking ability goes to original list creators and maintainers. Thanks so much for their tireless work! :D
 

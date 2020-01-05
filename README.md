@@ -21,8 +21,9 @@ cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube 
 It's been tested in uBlock Origin for Chrome, Firefox and Edge; it should work just
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.
 
-It includes customized entries that block particularly annoying page elements.
-It is saved in UTF-8 format.
+It's the result of the ad filter lists being combined, sorted, with duplicates and comments removed.
+
+It's saved in UTF-8 format.
 
 **(VITAL:)**
 Be sure to disable any lists that appear in the list below that you already have active in

@@ -58,6 +58,6 @@ Full credit for the actual blocking ability goes to original list creators and m
 
 ## Filter Lists
 
-More than 120 lists, see: 
+More than 120 lists, see:
 
-https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/adfilters_urls.txt>
+<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/adfilters_urls.txt>

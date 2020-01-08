@@ -3,7 +3,7 @@
 
 ## Important News 📰
 
-***(as of Jan 5th, 2020)
+***(as of Jan 8th, 2020)
 
 I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
 

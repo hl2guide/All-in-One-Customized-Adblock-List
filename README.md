@@ -11,7 +11,7 @@ The __2.9 Beta__ has the generator (PowerShell script) rewritten from scratch.
 
 _It generates the aio.txt file much, MUCH more quickly._
 
-No plans on a commit schedule to update it as I'll doing it manually.
+No plans on a commit schedule to update it as I'm doing it manually.
 
 ## Description 📝
 

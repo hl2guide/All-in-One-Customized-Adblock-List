@@ -89,6 +89,7 @@ https://raw.githubusercontent.com/SkeletalDemise/Skeletal-Blocker/master/Skeleta
 https://raw.githubusercontent.com/Strappazzon/filterlists/master/Filterlists/Annoyances.txt
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/filterlist.txt
 https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt

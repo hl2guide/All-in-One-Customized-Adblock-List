@@ -101,6 +101,8 @@ https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kujira_filter.t
 https://raw.githubusercontent.com/endolith/clickbait/master/clickbait.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/hit3shjain/Andromeda-ublock-list/master/hosts.txt
+https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/Extras/privacybadger_blocklist.txt
+https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/Extras/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://raw.githubusercontent.com/ilyakatz/adblock_filters/master/inpage_popups.txt
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt

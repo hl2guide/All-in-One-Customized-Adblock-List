@@ -15,8 +15,7 @@ No plans on a commit schedule to update it as I'm doing it manually.
 
 ## Description 📝
 
-_This is an all-in-one adblocking filter list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news,
-cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
+_This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, crytosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
 
 __It's been tested in uBlock Origin for Chrome, Firefox and Edge; it should work just
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.__

@@ -1,25 +1,14 @@
-accounts.google.com
-app.standardnotes.org
-asus.com
-dashboard.sonicseedbox.com
-dashlane.com
-discordapp.com
-duckduckgo.com
-ebay.com
-ebay.com.au
-epicgames.com
-geforce.com
-github.com
-inoreader.com
-marketplace.visualstudio.com
-mega.nz
-my.jdownloader.org
-nexusmods.com
-qwant.com
-raindrop.io
-shop.coles.com.au
-sonicseedbox.com
-speedtest.net
-standardnotes.org
-twitch.tv
-woolworths.com.au
+[Adblock Plus 2.0]
+! Title: 😎 Whitelist for All-in-One-Customized-Adblock-List
+! Version: 2.9 Beta
+! Last modified: 15/01/2020 4:04 PM AEST
+! Licence: MIT
+! Description: Whitelist for websites.
+! Homepage: https://github.com/hl2guide/All-in-One-Customized-Adblock-List
+@@||example.com,accounts.google.com,addons.mozilla.org,app.standardnotes.org,asus.com^$document
+@@||dashlane.com, discordapp.com,duckduckgo.com,ebay.com.au,epicgames.com,fast.com^$document
+@@||github.com,google.com.au,inoreader.com,mail.google.com,marketplace.visualstudio.com^$document
+@@||mega.nz,my.jdownloader.org,nexusmods.com,qwant.com,raindrop.io,shop.coles.com.au^$document
+@@||speedtest.net,standardnotes.org,support.microsoft.com,twitch.tv,woolworths.com.au^$document
+@@||aldi.com.au,coles.com.au,stitcher.com^$document
+! Template: @@||^$document

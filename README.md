@@ -32,7 +32,9 @@ This list is very comprehensive and includes around 120 custom-picked adblocking
 As a basic rule this list includes filter lists that are obtainable at time of generation.
 
 This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
-for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs and the like.
+for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).
+
+I've recently noticed poor performance in Firefox for youtube.com (if you use this list). In this case I'd suggest the fix of using a Chromium-based browser like Vivialdi, Opera, Edge etc.
 
 ## Usage 📣
 
@@ -42,9 +44,9 @@ In your adblocker's filter lists section add the URL:
 
 Check the wiki for step-by-step instructions: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
 
-## What's in Version 2.9 📌
+## What's in Version 2.9 Beta 📌
 
-Version 2.9 of the AIO list is more complete and potent than ever.
+Version 2.9 Beta of the AIO list is more complete and potent than ever.
 
 * Added more adblocking lists (over 120 in total now)
 * Tested browsers: Firefox, Vivaldi, Opera and Chrome

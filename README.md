@@ -7,11 +7,11 @@
 
 - Added many fixes and cleanup on Jan 30th, 2020
 - I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
-- The 2.9 BETA includes many social media blocking rules.
-- The __2.9 Beta__ has the generator (PowerShell script) rewritten from scratch.
-- _It generates the aio.txt file much, MUCH more quickly._
-- No plans on a commit schedule to update it as I'm doing it manually.
-- I've combined many domain-only lines into one rule.
+- The 2.9 BETA includes many social media blocking rules
+- The __2.9 Beta__ has the generator (PowerShell script) rewritten from scratch
+- _It generates the aio.txt file much, MUCH more quickly_
+- No plans on a commit schedule to update it as I'm doing it manually
+- I've combined many domain-only lines into one rule
 
 ## Description 📝
 

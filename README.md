@@ -3,7 +3,9 @@
 
 ## Important News 📰
 
-***(as of Feb 7th, 2020)
+***(as of Feb 13th, 2020)
+
+2.9 will go stable soon, maybe within the next week?
 
 - Added many fixes and cleanup on Jan 30th, 2020
 - I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt

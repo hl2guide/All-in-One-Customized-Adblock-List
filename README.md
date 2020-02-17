@@ -10,8 +10,8 @@
 This is the last change for this link going forward, sorry for the hassle.
 
 - Added many fixes and cleanup on Jan 30th, 2020
-- The 2.9 BETA includes many social media blocking rules
-- The __2.9 Beta__ has the generator (PowerShell script) rewritten from scratch
+- 2.9 includes many social media blocking rules
+- 2.9 has the generator (PowerShell script) rewritten from scratch
 - _It generates the aio.txt file much, MUCH more quickly_
 - No plans on a commit schedule to update it as I'm doing it manually
 - I've combined many domain-only lines into one rule

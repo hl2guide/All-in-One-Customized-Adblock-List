@@ -1,11 +1,13 @@
 
-# All-in-One-Customized-Adblock-List 2.9 Beta
+# All-in-One-Customized-Adblock-List 2.9 Stable
 
 ## Important News 📰
 
-***(as of Feb 13th, 2020)
+***(as of Feb 17th, 2020)
 
-2.9 will go stable soon, maybe within the next week?
+2.9 is now stable, please delete the old beta link in your adblocker and import this new link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt
+
+This is the last change for this link going forward, sorry or the hassle.
 
 - Added many fixes and cleanup on Jan 30th, 2020
 - I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt

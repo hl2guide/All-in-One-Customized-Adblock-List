@@ -5,12 +5,11 @@
 
 ***(as of Feb 17th, 2020)
 
-2.9 is now stable, please delete the old beta link in your adblocker and import this new link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt
+2.9 is now stable, please delete the old beta link in your adblocker and import this new link: <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 
 This is the last change for this link going forward, sorry for the hassle.
 
 - Added many fixes and cleanup on Jan 30th, 2020
-- I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt
 - The 2.9 BETA includes many social media blocking rules
 - The __2.9 Beta__ has the generator (PowerShell script) rewritten from scratch
 - _It generates the aio.txt file much, MUCH more quickly_
@@ -44,13 +43,15 @@ I've recently noticed poor performance in Firefox for youtube.com (if you use th
 
 In your adblocker's filter lists section add the URL:
 
-<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt>
+<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 
-Check the wiki for step-by-step instructions: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
+View the wiki for step-by-step instructions: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
 
-## What's in Version 2.9 Beta 📌
+View the whitelist for a foundation for whitelisting: <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/whitelist.txt>. Then add in your favourite sites too :D
 
-Version 2.9 Beta of the AIO list is more complete and potent than ever.
+## What's in Version 2.9 📌
+
+Version 2.9 of the AIO list is more complete and potent than ever.
 
 * Added more adblocking lists (over 120 in total now)
 * Tested browsers: Firefox, Vivaldi, Opera and Chrome

@@ -7,7 +7,7 @@
 
 2.9 is now stable, please delete the old beta link in your adblocker and import this new link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt
 
-This is the last change for this link going forward, sorry or the hassle.
+This is the last change for this link going forward, sorry for the hassle.
 
 - Added many fixes and cleanup on Jan 30th, 2020
 - I've changed my mind and created a __2.9 Beta__: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/aio.txt

@@ -29,7 +29,11 @@ It's saved in UTF-8 format.
 
 **(VITAL:)**
 Be sure to disable any lists that appear in the list below that you already have active in
-the settings/dashboard. e.g. <https://i.imgur.com/cVyxL7J.png>
+the settings/dashboard.
+
+e.g.
+
+[<img src="https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/Screenshots/example.PNG" width=300>](https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/Screenshots/example.PNG)
 
 This list is very comprehensive and includes around 120 custom-picked adblocking filter lists.
 As a basic rule this list includes filter lists that are obtainable at time of generation.

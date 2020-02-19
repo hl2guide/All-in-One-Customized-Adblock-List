@@ -20,6 +20,9 @@ This is the last change for this link going forward, sorry for the hassle.
 
 _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
 
+This list is very comprehensive and includes around 120 custom-picked adblocking filter lists.
+As a basic rule this list includes filter lists that are obtainable at time of generation.
+
 __It's been tested in uBlock Origin for Chrome, Firefox and Edge; it should work just
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.__
 
@@ -34,9 +37,6 @@ the settings/dashboard.
 e.g.
 
 [<img src="https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/Screenshots/example.PNG" width=300>](https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/Screenshots/example.PNG)
-
-This list is very comprehensive and includes around 120 custom-picked adblocking filter lists.
-As a basic rule this list includes filter lists that are obtainable at time of generation.
 
 This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
 for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).

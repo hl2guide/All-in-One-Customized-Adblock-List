@@ -3,9 +3,11 @@
 
 ## Description 📝
 
+While there are honest websites who run websites that either have no advertising and tracking or have limited reasonable adverising; the modern internet is full of websites that invasively track, mislead and nag its users. Bad websites make use of ad-networks, tracker-networks and popups.
+
 _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
 
-This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
+It focuses on a "distrust website first" basis with an expected whitelisting on the users end
 for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).
 
 ## Important News 📰

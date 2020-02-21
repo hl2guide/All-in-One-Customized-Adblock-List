@@ -52,7 +52,9 @@ View the whitelist for a foundation for whitelisting: <https://raw.githubusercon
 
 ## Credits ☺️
 
-Full credit for the actual blocking ability goes to original list creators and maintainers. Thanks so much for their tireless work! :D
+Full credit for the actual blocking ability goes to original list creators and maintainers.
+
+Thanks so much for their tireless work! :D
 
 ## Filter Lists
 

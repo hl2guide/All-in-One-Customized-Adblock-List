@@ -34,7 +34,7 @@ fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists
 - Many domain-only filters have been combined into one filter
 - Saved in UTF-8 format
 - Social media blocking rules are included
-- As I'm commiting it manually updates, the list updates about once a day
+- I'm commiting it manually, the list updates about once a day
 
 **(VITAL:)**
 Be sure to disable any lists that appear in the list below that you already have active in

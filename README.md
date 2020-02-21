@@ -46,9 +46,13 @@ In your adblocker's filter lists section add the URL:
 
 <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 
-Read the wiki for step-by-step instructions, recommendations and more info: <https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
+Read the wiki for step-by-step instructions, recommendations and more info:
+<https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki>
 
-View the whitelist for a foundation for whitelisting: <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/whitelist.txt>. Then add in your favourite sites too :D
+View the whitelist for a foundation for whitelisting:
+<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/whitelist.txt>.
+
+Then add in your favourite sites too :D
 
 ## Credits ☺️
 

@@ -5,6 +5,9 @@
 
 _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
 
+This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
+for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).
+
 ## Important News 📰
 
 ***(as of Feb 21, 2020)
@@ -13,9 +16,6 @@ _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, 
 <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 
 This is the final change for this link going forward, sorry for the hassle.
-
-This list focuses on a "distrust website first" basis with an expected whitelisting on the users end
-for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).
 
 I've recently noticed poor performance in Firefox for youtube.com (if you use this list). In this case I'd suggest the fix of using a Chromium-based browser like Vivialdi, Opera, Edge etc.
 

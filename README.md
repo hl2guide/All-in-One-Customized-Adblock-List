@@ -3,7 +3,9 @@
 
 ## Description 📝
 
-While there are honest websites who run websites that either have no advertising and tracking or have limited reasonable adverising; the modern internet is full of websites that invasively track, mislead and nag its users. Bad websites make use of ad-networks, tracker-networks and popups.
+While there are honest websites who run websites that either have no advertising and tracking or have limited reasonable adverising; the modern internet is full of websites that invasively track, mislead and nag its users.
+
+Bad websites make use of ad-networks, tracker-networks and popups.
 
 _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles._
 

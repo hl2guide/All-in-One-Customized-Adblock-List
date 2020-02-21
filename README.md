@@ -3,7 +3,7 @@
 
 ## Important News 📰
 
-***(as of Feb 17th, 2020)
+***(as of Feb 21, 2020)
 
 2.9 is now stable, please delete the old beta link in your adblocker and import this new link: <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 

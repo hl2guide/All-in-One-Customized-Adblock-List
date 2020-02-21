@@ -60,4 +60,4 @@ Thanks so much for their tireless work! :D
 
 More than 120 lists, see:
 
-<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/2.9%20BETA%202020/adfilters_urls.txt>
+<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/adfilters_urls.txt>

@@ -14,16 +14,18 @@ for approved websites. The list is aggressive and may "break" some websites that
 
 ## Important News 📰
 
-***(as of Feb 21, 2020)
+***(as of Feb 28, 2020)
 
 2.9 is now stable, please delete the old beta link in your adblocker and import this new link:
 <https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
 
 This is the final change for this link going forward, sorry for the hassle.
 
-I've recently noticed poor performance in Firefox for youtube.com (if you use this list). In this case I'd suggest the fix of using a Chromium-based browser like Vivialdi, Opera, Edge etc.
+I've recently noticed poor performance in Firefox for youtube.com (if you use this list or even not).
 
-## Features
+For this I'd suggest the fix of using a Chromium-based browser like Vivialdi, Opera, Edge, Min etc.
+
+## Features 📘
 
 - Very comprehensive and includes around 120 custom-picked adblocking filter lists
 - Tested in Nano Adblocker for Firefox, Edge Chromium and Vivaldi; it should work just
@@ -66,7 +68,7 @@ Full credit for the actual blocking ability goes to original list creators and m
 
 Thanks so much for their tireless work! :D
 
-## Filter Lists
+## Filter Lists 🗂️
 
 More than 120 lists, see:
 

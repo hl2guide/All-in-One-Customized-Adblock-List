@@ -5,7 +5,7 @@
 
 ### (as of April 7, 2020)
 
-I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes.
+I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes. No more commits will be made.
 
 I advise that you consider making the switch (like I have) to using one of AdGuard's free products:
 - AdGuard Home: https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started#installation

@@ -1,5 +1,16 @@
 
-# All-in-One-Customized-Adblock-List 2.9 Stable
+# All-in-One-Customized-Adblock-List 2.9 Stable [deprecated]
+
+## Important News 📰
+
+### (as of April 7, 2020)
+
+I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes.
+
+I advise that you consider making the switch (like I have) to using one of AdGuard's free products:
+- AdGuard Home: https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started#installation
+- Browser Extension: https://adguard.com/en/adguard-browser-extension/overview.html
+- AdGuard DNS (in Beta): https://adguard.com/en/adguard-dns/overview.html
 
 ## Description 📝
 
@@ -11,19 +22,6 @@ _This is an all-in-one adblock list that thoroughly blocks trackers, popup ads, 
 
 It focuses on a "distrust website first" basis with an expected whitelisting on the users end
 for approved websites. The list is aggressive and may "break" some websites that use CAPTCHAs (Google.com and the like).
-
-## Important News 📰
-
-### (as of Feb 28, 2020)
-
-2.9 is now stable, please delete the old beta link in your adblocker and import this new link:
-<https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/aio.txt>
-
-This is the final change for this link going forward, sorry for the hassle.
-
-I've recently noticed poor performance in Firefox for youtube.com (if you use this list or even not).
-
-For this I'd suggest the fix of using a Chromium-based browser like Vivialdi, Opera, Edge, Min etc.
 
 ## Features 📘
 

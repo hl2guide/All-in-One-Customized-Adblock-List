@@ -7,6 +7,8 @@
 
 I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes. No more commits will be made.
 
+My new repo is up at: https://github.com/hl2guide/Filterlist-for-AdGuard
+
 I advise that you consider making the switch (like I have) to using one of AdGuard's free products:
 - AdGuard Home: https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started#installation
 - Browser Extension: https://adguard.com/en/adguard-browser-extension/overview.html

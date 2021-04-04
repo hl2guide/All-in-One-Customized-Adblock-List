@@ -2,6 +2,7 @@
 # All-in-One-Customized-Adblock-List 2.9 Stable [deprecated]
 
 🛑 This repo is no longer maintained.
+🥶 The repo is archived, I don't expect to do more work on it.
 
 ## Important News 📰
 
